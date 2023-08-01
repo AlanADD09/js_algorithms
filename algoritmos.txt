@@ -1,0 +1,63 @@
+Existen muchos algoritmos comunes utilizados en programación para resolver diferentes tipos de problemas. A continuación, te presento algunos de los más conocidos:
+
+1. Búsqueda y Ordenamiento:
+   - Búsqueda lineal.
+   - Búsqueda binaria.
+   - Bubble Sort (Ordenamiento burbuja).
+   - Insertion Sort (Ordenamiento por inserción).
+   - Selection Sort (Ordenamiento por selección).
+   - Merge Sort (Ordenamiento por mezcla).
+   - Quick Sort (Ordenamiento rápido).
+   - Heap Sort (Ordenamiento por montículos).
+
+2. Estructuras de Datos:
+   - Listas enlazadas.
+   - Árboles (binarios, de búsqueda, AVL, etc.).
+   - Grafos (DFS, BFS, algoritmos de búsqueda de rutas, etc.).
+   - Pilas (Stack) y Colas (Queue).
+   - Hash tables (Tablas de hash).
+   - Conjuntos y Mapas.
+
+3. Programación Dinámica:
+   - Fibonacci recursivo.
+   - Fibonacci con programación dinámica (memorización).
+   - Problemas de mochila (Knapsack problem).
+   - Longest Common Subsequence (LCS).
+
+4. Búsqueda Heurística:
+   - Algoritmos genéticos.
+   - Algoritmos de búsqueda tabú.
+   - Búsqueda local.
+   - Algoritmos de recocido simulado.
+
+5. Grafos:
+   - Algoritmo de Dijkstra (camino más corto).
+   - Algoritmo de Kruskal (árbol de expansión mínima).
+   - Algoritmo de Prim (árbol de expansión mínima).
+   - Algoritmo de Floyd-Warshall (todos los caminos más cortos).
+
+6. Teoría de Grafos:
+   - Algoritmo de búsqueda en profundidad (DFS).
+   - Algoritmo de búsqueda en anchura (BFS).
+   - Orden topológico.
+
+7. Geometría Computacional:
+   - Algoritmo de Graham (envoltura convexa).
+   - Algoritmo de Bentley-Ottmann (intersecciones de líneas).
+   - Algoritmo de Jarvis (cálculo del polígono convexo más pequeño).
+
+8. Algoritmos de Cadena:
+   - Algoritmo de Knuth-Morris-Pratt (KMP).
+   - Algoritmo de Boyer-Moore (BM).
+   - Longest Common Substring.
+
+9. Algoritmos de Flujo:
+   - Algoritmo de Ford-Fulkerson (máximo flujo en redes).
+   - Algoritmo de Edmonds-Karp (máximo flujo en redes con BFS).
+
+10. Algoritmos de Aprendizaje Automático:
+    - Regresión lineal.
+    - K-means.
+    - Algoritmos de clasificación (Naive Bayes, Support Vector Machines, etc.).
+
+Estos son solo algunos ejemplos, pero existen muchos más algoritmos utilizados en programación que se aplican en diversas áreas como inteligencia artificial, análisis de datos, optimización, criptografía, entre otros. La elección del algoritmo adecuado depende del problema específico que estés tratando de resolver y de las restricciones y características del problema.
